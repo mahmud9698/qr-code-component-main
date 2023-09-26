@@ -589,6 +589,14 @@ video {
   width: 20rem;
 }
 
+.w-full {
+  width: 100%;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .rounded-2xl {
   border-radius: 1rem;
 }
